@@ -66,3 +66,8 @@ From July 2020 to January 2021, he was a Cooperation Associate at CERN openlab. 
  holds degrees from the University of Oviedo (Spain) in both Mathematics and Physics (2021). He is currently a mathematics research student at the National University of Ireland, Maynooth, where he works as a graduate teaching assistant.He completed his physics bachelor thesis under the supervision of Prof. Elías F. Combarro and Prof. Ignacio F. Rúa (University of Oviedo), and Dr. Sofia Vallecorsa (CERN). In it, he worked alongside other researchers from ETH Zürich on the application of Quantum Machine Learning to classification problems in High Energy Physis. In 2021, he was a summer student at CERN developing a benchmarking framework for quantum simulators. He has contributed to several conferences on quantum computing.
 
 
+
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781804613832">https://packt.link/free-ebook/9781804613832 </a> </p>
