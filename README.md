@@ -46,6 +46,11 @@ With the following software and hardware list you can run all code files present
 | 2-12 | Anaconda | Windows, Mac OS X, and Linux (Any) |
 | 2-12 | Google Colab | Windows, Mac OS X, and Linux (Any) |
 
+## Errata
+
+- In Figure 1.2 of the digital version of the book (not of the print version), the ket 0 should be on the positive Z axis (i.e., on the top), and the ket 1 should be on the negative Z azis (i.e., on the bottom). Since we got the figure right in print, would the figure's correctness be in a state of superposition?
+
+- References to the "_time-independent_ Schrodinger equation" (pages 14 and 126 of the print version) should be read as references to the "_time-dependent_ Schrodinger equation". 
 
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://packt.link/FtU9t).
 
